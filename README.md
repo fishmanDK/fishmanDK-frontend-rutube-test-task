@@ -11,15 +11,8 @@
 ```
 
 
-2. **Сборка Docker образа**:
+2. **Запуск при помощи npm**:
 
-```bash 
-    docker build -t frontend-rutube-test-task .
-```
-
-
-3. **Запуск приложения с помощью Docker Compose**:
-
-```bash 
-    docker-compose up --build app
-```
+    ```bash 
+        npm start
+    ```
