@@ -13,6 +13,6 @@
 
 2. **Запуск при помощи npm**:
 
-    ```bash 
-        npm start
-    ```
+```bash 
+    npm start
+```
