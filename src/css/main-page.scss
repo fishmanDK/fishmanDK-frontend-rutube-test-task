@@ -1,0 +1,42 @@
+.index-page-container{
+  background-color: #dfeae5;
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+}
+
+.user-info-container{
+  height: 50px;
+  font-size: 23px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 800;
+  display: block;
+  padding-left: 20px;
+  padding-top: 60px;
+}
+
+.subscribe-container{
+  display: block;
+  padding-left: 20px;
+}
+
+.input-data{   
+  font-size: 17px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  border-radius:10px;
+  background-color: azure;
+  padding: 0.5em;
+  height: 15px;
+  width: 300px;
+}
+
+.subs-list-container{
+
+}
+
+.sub-elem{
+  font-size: 17px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+}
